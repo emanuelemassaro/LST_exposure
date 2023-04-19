@@ -20,3 +20,7 @@ In this repository we can find python notebooks and python scripts to run the ma
 - [testFinal.ipynb](notebooks/testFinal.ipynb): this notebook run the test phases of the regression models
 - [trainingValidation.ipynb](notebooks/trainingValidation.ipynb): this notebook run the training validation phases of the regression models
 - [tresholds.ipynb](notebooks/tresholds.ipynb): this notebook estimates the LST tresholds from the Google Earth Engine
+
+All the collected data and the generated data is the folder [data_revision](data_revision). 
+All the python fuctions and codes are in the folder [codes](codes). 
+All the Figures are in the folder [figures_revision](figures_revision). 
