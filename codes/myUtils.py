@@ -11,8 +11,8 @@ import pickle
 from sklearn.model_selection import KFold
 from sklearn.metrics import mean_absolute_error, r2_score
 import statsmodels.api as sm
-import libpysal
-from spreg import GM_Lag, OLS, MoranRes
+#import libpysal
+#from spreg import GM_Lag, OLS, MoranRes
 import seaborn as sns
 import matplotlib.patches as patches
 import matplotlib as mpl
