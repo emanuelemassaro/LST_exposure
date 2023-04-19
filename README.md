@@ -1,4 +1,4 @@
-# Reducing extreme heat exposure in cities through spatial analysis of urban greening
+# Spatially-optimized urban greening for reduction of population exposure to land surface temperature extremes
 ### E. Massaro, G. Duveiller, R. Schifanella, L. Caporaso, M. Piccardo, H. Taubenböck and A. Cescatti
 #### contact: ema.massaro@gmail.com
 
