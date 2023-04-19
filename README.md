@@ -7,3 +7,6 @@ This repository contains the codes and the data used for producing the results o
 For each city we collected information of land surface properties from the [Google Eart Engine](https://earthengine.google.com/) and the population from the [EU JRC Global Human Settlement Layer](https://ghsl.jrc.ec.europa.eu/). 
 
 In this repository we can find python notebooks and python scripts to run the main analysis for our results and the response to the reviwers.
+
+
+- SI_figures.ipynb: contains the link to data and the codes to generate the figures for the Supporting Information.
