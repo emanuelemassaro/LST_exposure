@@ -9,6 +9,7 @@ For each city we collected information of land surface properties from the [Goog
 In this repository we can find python notebooks and python scripts to run the main analysis for our results and the response to the reviwers.
 
 - [data.ipynb](notebooks/data.ipynb): this notebook allows the user to download the data from the Google Earth Engine
+- [tresholds.ipynb](notebooks/tresholds.ipynb): this notebook estimates the LST tresholds from the Google Earth Engine
 - [crossValidation.ipynb](notebooks/crossValidation.ipynb): this notebook generates the list of the cities for the cross validation
 - [trainingValidation.ipynb](notebooks/trainingValidation.ipynb): this notebook run the training validation phases of the regression models
 - [testFinal.ipynb](notebooks/testFinal.ipynb): this notebook run the test phases of the regression models
