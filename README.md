@@ -8,4 +8,9 @@ For each city we collected information of land surface properties from the [Goog
 
 In this repository we can find python notebooks and python scripts to run the main analysis for our results and the response to the reviwers.
 
-- [Figures for Supportin Information: SI_figures.ipynb](notebooks/SI_figures.ipynb): contains the link to data and the codes to generate the figures for the Supporting Information.
+- Figure1.ipynb](notebooks/Figure1.ipynb): contains the link to the data and the codes to generate the Figure 1 of the main text
+- Figure2.ipynb](notebooks/Figure2.ipynb): contains the link to the data and the codes to generate the Figure 2 of the main text
+- Figure3.ipynb](notebooks/Figure3.ipynb): contains the link to the data and the codes to generate the Figure 3 of the main text
+- Figure4.ipynb](notebooks/Figure4.ipynb): contains the link to the data and the codes to generate the Figure 4 of the main text
+- Figure5.ipynb](notebooks/Figure5.ipynb): contains the link to the data and the codes to generate the Figure 5 of the main text
+- SI_figures.ipynb](notebooks/SI_figures.ipynb): contains the link to data and the codes to generate the figures for the Supporting Information.
