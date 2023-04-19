@@ -22,5 +22,7 @@ In this repository we can find python notebooks and python scripts to run the ma
 - [tresholds.ipynb](notebooks/tresholds.ipynb): this notebook estimates the LST tresholds from the Google Earth Engine
 
 ** All the collected data and the generated data are the folder [data_revision](data_revision). 
+
 ** All the python fuctions and codes are in the folder [codes](codes). 
+
 ** All the Figures are in the folder [figures_revision](figures_revision). 
