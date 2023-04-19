@@ -1,5 +1,5 @@
 # Spatially-optimized urban greening for reduction of population exposure to land surface temperature extremes
-### E. Massaro, G. Duveiller, R. Schifanella, L. Caporaso, M. Piccardo, H. Taubenböck and A. Cescatti
+### E. Massaro, R. Schifanella, L. Caporaso, M. Piccardo, H. Taubenböck, A. Cescatti and G. Duveiller
 #### contact: ema.massaro@gmail.com
 
 This repository contains the codes and the data used for producing the results of the paper.
