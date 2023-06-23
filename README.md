@@ -4,10 +4,8 @@
 
 This repository contains the codes and the data used for producing the results of the paper published in Nature Communications.
 
-Massaro, E., et al. [Spatially-optimized urban greening for reduction of population exposure to land surface temperature extremes](https://www.nature.com/articles/s41467-023-38596-1)
-
+Massaro, E., et al. [Spatially-optimized urban greening for reduction of population exposure to land surface temperature extremes](https://www.nature.com/articles/s41467-023-38596-1)\\
 Nat Commun 14, 2903 (2023) 
-
 https://doi.org/10.1038/s41467-023-38596-1
 
 For each city we collected information of land surface properties from the [Google Earth Engine](https://earthengine.google.com/) and the population from the [EU JRC Global Human Settlement Layer](https://ghsl.jrc.ec.europa.eu/). 
